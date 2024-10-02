@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/working/GAME_1303/GAME_1303-main/Starrett_GAME1303/Content/__ExternalActors__/Starrett_GAME1303/7/7H/H3UJQOUXB9B1BOK7TE80EC.uasset",
+				"C:/working/GAME_1303/GAME_1303-main/Starrett_GAME1303/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/working/GAME_1303/GAME_1303-main/Starrett_GAME1303/Content/CollectionGame.umap",
 				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/Content/__ExternalActors__/Starrett_GAME1303/7/YJ/XKYJF59QGF1BHK452BY8L3.uasset",
 				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/Content/__ExternalActors__/Starrett_GAME1303/9/JH/Q7034VDAO8ITNY84Y6QO8S.uasset",
 				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/Content/__ExternalActors__/Starrett_GAME1303/0/2R/FQWVGRU4QKD4LXP5Q9IBH6.uasset",
@@ -251,8 +254,6 @@
 				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/Content/CollectionMiniGame/lambert436.uasset",
 				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/Content/CollectionMiniGame/SM_Env_Pillar_Square_04__1_.uasset",
 				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/Content/StarterContent/Props/SM_Statue.uasset",
-				"C:/working/GAME_1303/GAME_1303-main/Starrett_GAME1303/Content/__ExternalActors__/Starrett_GAME1303/7/7H/H3UJQOUXB9B1BOK7TE80EC.uasset",
-				"C:/working/GAME_1303/GAME_1303-main/Starrett_GAME1303/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/Content/NewBlueprint.uasset",
 				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/Content/SlidingDoor.uasset",
 				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/Content/BP_HelloLight.uasset",
