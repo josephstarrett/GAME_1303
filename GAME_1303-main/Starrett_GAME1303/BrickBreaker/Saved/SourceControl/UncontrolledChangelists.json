@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker.umap",
+				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Material/Mat_Ball.uasset",
+				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Material/Mat_Floor.uasset",
+				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Material/Mat_Brick.uasset",
+				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Material/Mat_Wall.uasset",
+				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Material/Mat_Bat.uasset",
+				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Scene/BrickBreaker.umap",
+				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Blueprints/BP_Ball.uasset",
+				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Blueprints/BP_Brick.uasset",
+				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Blueprints/BP_Bat.uasset",
+				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Blueprints/BP_Pit.uasset",
 				"C:/working/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Material/Mat_Brick.uasset",
 				"C:/working/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Scene/BrickBreaker.umap",
 				"C:/working/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Input/IA_Move.uasset",
@@ -19,19 +30,12 @@
 				"C:/working/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Blueprints/BP_Ball.uasset",
 				"C:/working/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Audio/ac_Boing.uasset",
 				"C:/working/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Audio/ac_Pop.uasset",
-				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker.umap",
 				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/Scene/BrickBreaker.umap",
 				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/Material/Mat_Floor.uasset",
 				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/Material/Mat_Ball.uasset",
 				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/Material/Mat_Bat.uasset",
 				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/Material/Mat_Wall.uasset",
-				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/Material/Mat_Brick.uasset",
-				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Material/Mat_Ball.uasset",
-				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Material/Mat_Floor.uasset",
-				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Material/Mat_Brick.uasset",
-				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Material/Mat_Wall.uasset",
-				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Material/Mat_Bat.uasset",
-				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/BrickBreaker/Scene/BrickBreaker.umap"
+				"C:/Working/josephS/GAME_1303/GAME_1303-main/Starrett_GAME1303/BrickBreaker/Content/Material/Mat_Brick.uasset"
 			]
 		}
 	]
